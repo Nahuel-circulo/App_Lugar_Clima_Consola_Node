@@ -1,0 +1,17 @@
+{
+  "name": "04_climaapp",
+  "version": "0.0.1",
+  "description": "aplicacion de clima con geolocalizacion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Nahuelnp",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+  }
+}
